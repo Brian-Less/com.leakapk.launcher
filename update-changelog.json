@@ -3,6 +3,6 @@
   "latestVersion": "1.0.0.2",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "- ปรับแก้ฟังก์ชั่นการโหลดข้อมูล"
+    "- คัดลอกไฟล์ตั้งค่ามายังไฟล์เกม สำหรับโทรศัพท์ที่ไม่สามารถเข้าถึงไฟล์ตั้งค่าได้เมื่อรันเกมส์"
   ]
 }

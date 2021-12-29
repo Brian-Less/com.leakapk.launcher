@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 4,
+  "latestVersionCode": 5,
   "latestVersion": "1.0.0.2",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "- คัดลอกไฟล์ตั้งค่ามายังไฟล์เกม สำหรับโทรศัพท์ที่ไม่สามารถเข้าถึงไฟล์ตั้งค่าได้เมื่อรันเกมส์"
+    "- แจ้งเตือนเมื่อตัวเกมไม่พร้อมระหว่างการกดเข้าเล่น / ปรับ UI หน้าตั้งค่าเล็กน้อย"
   ]
 }

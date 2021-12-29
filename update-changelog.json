@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 5,
-  "latestVersion": "1.0.0.2",
+  "latestVersionCode": 6,
+  "latestVersion": "1.0.0.3",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "- แจ้งเตือนเมื่อตัวเกมไม่พร้อมระหว่างการกดเข้าเล่น / ปรับ UI หน้าตั้งค่าเล็กน้อย"
+    "- ไม่จำเป็นต้องป้อนรหัสผ่านเข้าเซิร์ฟเวอร์อีกต่อไปสำหรับเซิร์ฟเวอร์ที่ล็อค"
   ]
 }

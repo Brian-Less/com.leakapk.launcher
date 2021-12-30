@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 7,
-  "latestVersion": "1.0.0.3",
+  "latestVersionCode": 8,
+  "latestVersion": "1.0.0.4",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "- ไม่จำเป็นต้องป้อนรหัสผ่านเข้าเซิร์ฟเวอร์อีกต่อไปสำหรับเซิร์ฟเวอร์ที่ล็อค"
+    "- รายการเซิร์ฟเวอร์ เปิดได้มากกว่า 10 รายการ / ปรับปรุงประสิทธิภาพโค้ดเล็กน้อย"
   ]
 }

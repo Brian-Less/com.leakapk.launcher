@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 9,
+  "latestVersionCode": 11,
   "latestVersion": "1.0.0.4",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "- รายการเซิร์ฟเวอร์ เปิดได้มากกว่า 10 รายการ / ปรับปรุงประสิทธิภาพโค้ดเล็กน้อย"
+    "- ปรับปรุงประสิทธิภาพโค้ดเล็กน้อย"
   ]
 }

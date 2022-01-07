@@ -1,6 +1,6 @@
 {
   "latestVersionCode": 22,
-  "latestVersion": "2.0.0.0",
+  "latestVersion": "2.0.0.5",
   "url": "http://103.22.181.138/mobile_client/launcher/app-release.apk",
   "releaseNotes": [
     "- ระบบจัดการไฟล์ข้อมูลใหม่ (ลบ /Android/leakapk.com ทิ้งออกไปได้เลย)",

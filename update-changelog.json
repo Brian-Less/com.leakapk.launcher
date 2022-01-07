@@ -1,7 +1,7 @@
 {
   "latestVersionCode": 22,
   "latestVersion": "2.0.0.5",
-  "url": "http://103.22.181.138/mobile_client/launcher/app-release.apk",
+  "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
     "- ระบบจัดการไฟล์ข้อมูลใหม่ (ลบ /Android/leakapk.com ทิ้งออกไปได้เลย)",
     "- ไฟล์ข้อมูลเกมจะถูกย้ายเข้าไปเก็บในหน่วยความจำที่ควรอยู่",

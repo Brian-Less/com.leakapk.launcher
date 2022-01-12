@@ -1,14 +1,8 @@
 {
-  "latestVersionCode": 29,
-  "latestVersion": "2.0.3",
+  "latestVersionCode": 30,
+  "latestVersion": "2.0.4",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "LAUNCHER",
-    "- แก้ไขการโหลดหน้าเซิร์ฟเวอร์ให้มีประสิทธิภาพมากขึ้น",
-    "- Android 11 (API 30) แอปมีการร้องขอการเข้าถึงไฟล์ข้อมูล",
-    "(28-29)",
-    "- เพิ่มหน้าการทำงานของการซ่อมไฟล์เกม (ไม่รวมโฟลเดอร์ SAMP)",
-    "- ปรับ Activity การร้องขอสิทธิ์ / ปรับการโหลดหน้ารายการเซิร์ฟเวอร์ให้เสถียรยิ่งขึ้น",
-    "- ปรับ Android 5 (Lolipop) เป็นขั้นต่ำของแอป"
+
   ]
 }

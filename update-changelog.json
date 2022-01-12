@@ -1,8 +1,10 @@
 {
-  "latestVersionCode": 30,
+  "latestVersionCode": 31,
   "latestVersion": "2.0.4",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "- ไม่มีรายละเอียด"
+    "CLIENT: (BUILD 9)",
+    "- แก้บั๊กการกำหนดสียานพาหนะที่ไม่ถูกต้อง",
+    "- โหลด cutscene จาก texdb"
   ]
 }

@@ -1,9 +1,11 @@
 {
-  "latestVersionCode": 31,
+  "latestVersionCode": 34,
   "latestVersion": "2.0.5",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
     "LAUNCHER:",
-    "- ปิดการซ่อมไฟล์ที่มีขนาดต่างกันกับไฟล์บนเซิร์ฟเวอร์ (เปิดให้แก้ไขไฟล์ดาต้า /Android/data/com.leakapk.game/files)"
+    "- ปิดการซ่อมไฟล์ที่มีขนาดต่างกันกับไฟล์บนเซิร์ฟเวอร์ (เปิดให้แก้ไขไฟล์ดาต้า /Android/data/com.leakapk.game/files)",
+    "(34)",
+    "- แก้บั๊กการอ่านค่าจากไฟล์ Config"
   ]
 }

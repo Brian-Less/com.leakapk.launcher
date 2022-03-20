@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 36,
+  "latestVersionCode": 37,
   "latestVersion": "2.0.7",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "LAUNCHER:",
-    "- แก้บั๊กการอ่านค่าจากไฟล์ Config"
+    "CLIENT:",
+    "- ปรับปรุงจุดที่คาดว่าทำให้เกมแคชหลุด"
   ]
 }

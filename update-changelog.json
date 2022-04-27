@@ -1,9 +1,11 @@
 {
-  "latestVersionCode": 46,
-  "latestVersion": "2.1.9",
-  "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
+  "latestVersionCode": 47,
+  "latestVersion": "2.1.10",
+  "url": "http://launcher.leakapk.com/mobile_client/launcher/leakAPP.apk",
   "releaseNotes": [
     "LAUNCHER:",
-    "- แก้การกระพริบของคีย์บอร์ด"
+    "- แก้การกระพริบของคีย์บอร์ด",
+    "- แก้บั๊กหลุดหน้าโหลด",
+    "- เพิ่มการตั้งชื่อตัวละครที่มีตัวเลขได้"
   ]
 }

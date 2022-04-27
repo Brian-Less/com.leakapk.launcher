@@ -1,10 +1,9 @@
 {
-  "latestVersionCode": 45,
-  "latestVersion": "2.1.8",
+  "latestVersionCode": 46,
+  "latestVersion": "2.1.9",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
     "LAUNCHER:",
-    "- เพิ่มลิงค์ชุมชนเพื่อให้ผู้เล่นได้ติดต่อกับเซิร์ฟเวอร์โดยตรง (อาจจะเป็นเฟสบุ๊คหรือดิสคอร์ด)",
-    "<ตั้งค่าผ่านเว็บไซต์ leakapk.com>"
+    "- แก้การกระพริบของคีย์บอร์ด"
   ]
 }

@@ -1,12 +1,9 @@
 {
-  "latestVersionCode": 50,
-  "latestVersion": "2.2.2",
+  "latestVersionCode": 51,
+  "latestVersion": "2.2.3",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
     "LAUNCHER:",
-    "- ตั้งค่าไฟล์เดต้าตัวเต็ม",
-    "- ดีเลย์การโหลดข้อมูลเซิร์ฟเวอร์",
-    "CLIENT:",
-    "- รองรับ 3-Touch"
+    "- แก้บัีก"
   ]
 }

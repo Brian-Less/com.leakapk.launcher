@@ -1,9 +1,11 @@
 {
-  "latestVersionCode": 51,
-  "latestVersion": "2.2.3",
+  "latestVersionCode": 53,
+  "latestVersion": "2.2.4",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
     "LAUNCHER:",
-    "- แก้บัีก"
+    "- แก้บั๊ก",
+    "- เพิ่มตั้งค่าเลือกใช้แป้นพิมพ์",
+    "- เพิ่มโฆษณา AdMob"
   ]
 }

@@ -1,10 +1,13 @@
 {
   "latestVersionCode": 56,
   "latestVersion": "3.0.1",
-  "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
+  "url": "https://www.mediafire.com/file/u7knas2jn6c6pwf/leakAPP.apk/file",
   "releaseNotes": [
     "LAUNCHER:",
     "- แก้บั๊กที่พบเห็น",
-    "- เพิ่มการตั้งค่าในหน้าตั้งค่า"
+    "- เพิ่มการตั้งค่าในหน้าตั้งค่า",
+    "",
+    "ใครที่มีปัญหากดอัพเดตผ่านแอปไม่ได้โหลดใหม่ที่นี่:",
+    "https://leakapk.com"
   ]
 }

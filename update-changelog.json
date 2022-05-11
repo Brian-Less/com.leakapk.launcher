@@ -1,13 +1,8 @@
 {
-  "latestVersionCode": 58,
-  "latestVersion": "3.0.2",
+  "latestVersionCode": 61,
+  "latestVersion": "3.0.3",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
     "ใครที่มีปัญหากดอัพเดตผ่านแอปไม่ได้โหลดใหม่ที่นี่: https://leakapk.com",
-    "(3.0.2) vc 58",
-    "- เพิ่มข้อมูลการ์ดจอของโทรศัพท์ที่ตรวจพบ",
-    "- ปรับปรุง UI ให้เป็นมิตรมากขึ้น",
-    "(3.0.2) vc 60",
-    "แก้บั๊กเสียงวิทยุซ้อน ตอนเปิดเพลงผ่านลิงค์"
   ]
 }

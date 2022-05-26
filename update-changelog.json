@@ -1,12 +1,9 @@
 {
-  "latestVersionCode": 63,
+  "latestVersionCode": 64,
   "latestVersion": "3.0.3",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
     "ใครที่มีปัญหากดอัพเดตผ่านแอปไม่ได้โหลดใหม่ที่นี่: https://leakapk.com",
-    "+รองรับ Android 7-12",
-    "+คำสั่ง /timestamp",
-    "*ปรับปรุงหน้าตา UI ใหม่",
-    "/เสียงรถบั๊ก"
+    "/แก้บั๊กการขับขี่มอไซต์และจักรยาน"
   ]
 }

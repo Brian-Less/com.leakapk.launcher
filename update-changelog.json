@@ -1,9 +1,8 @@
 {
-  "latestVersionCode": 64,
-  "latestVersion": "3.0.3",
+  "latestVersionCode": 65,
+  "latestVersion": "3.1.4",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "ใครที่มีปัญหากดอัพเดตผ่านแอปไม่ได้โหลดใหม่ที่นี่: https://leakapk.com",
-    "/แก้บั๊กการขับขี่มอไซต์และจักรยาน"
+    "ใครที่มีปัญหากดอัพเดตผ่านแอปไม่ได้โหลดใหม่ที่นี่: https://leakapk.com"
   ]
 }

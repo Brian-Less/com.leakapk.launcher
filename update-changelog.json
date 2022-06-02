@@ -1,8 +1,10 @@
 {
-  "latestVersionCode": 70,
-  "latestVersion": "4.3.3",
+  "latestVersionCode": 75,
+  "latestVersion": "4.3.5",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
+    "- ปรับปรุงฟีเจอร์ดาวน์โหลดไฟล์เกม",
+    "",
     "ใครที่มีปัญหากดอัพเดตผ่านแอปไม่ได้โหลดใหม่ที่นี่: https://leakapk.com"
   ]
 }

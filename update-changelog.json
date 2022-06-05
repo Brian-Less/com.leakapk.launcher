@@ -1,9 +1,13 @@
 {
-  "latestVersionCode": 79,
+  "latestVersionCode": 80,
   "latestVersion": "4.3.8",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
     "(ตัวเกม) แก้บั๊กเกมหลุดในบางจุด",
-    "(ตัวเกม) เพิ่มปุ่มที่เซิร์ฟเวอร์ได้ตั้งค่าไว้กับ API"
+    "(ตัวเกม) เพิ่มปุ่มที่เซิร์ฟเวอร์ได้ตั้งค่าไว้กับ API",
+    "06/06/22 12:44 | 4.3.8 (80)",
+    "(ตัวเกม) ปิดตัวบูส FPS ชั่วคราว",
+    "(ตัวเกม) โหลดไฟล์อาวุธที่ถูกต้อง",
+    "(ตัวเกม) แก้บั๊กเซิร์ฟเวอร์ที่ใช้ weapon-config ยิงไม่เข้า"
   ]
 }

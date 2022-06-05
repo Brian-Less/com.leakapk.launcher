@@ -1,13 +1,9 @@
 {
-  "latestVersionCode": 78,
-  "latestVersion": "4.3.7",
+  "latestVersionCode": 79,
+  "latestVersion": "4.3.8",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "(ตัวเกม) รองรับเซิร์ฟเวอร์ที่ใช้ Include ดัดแปลงดาเมจอาวุธ (weapon-config)",
-    "(ตัวเกม) แสดงสีตามธีมที่เซิร์ฟเวอร์ได้ตั้งค่าไว้",
-    "(รันเชอร์) แสดงผลเซิร์ฟเวอร์ที่เปิดให้ใช้ AutoAim",
-    "4.3.7 - (78)",
-    "(รันเชอร์) แก้บั๊กหน้าโฮสต์สาธารณะในการแสดง AutoAim",
-    "ใครที่มีปัญหากดอัพเดตผ่านแอปไม่ได้โหลดใหม่ที่นี่: https://leakapk.com"
+    "(ตัวเกม) แก้บั๊กเกมหลุดในบางจุด",
+    "(ตัวเกม) เพิ่มปุ่มที่เซิร์ฟเวอร์ได้ตั้งค่าไว้กับ API"
   ]
 }

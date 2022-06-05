@@ -1,11 +1,11 @@
 {
-  "latestVersionCode": 76,
-  "latestVersion": "4.3.6",
+  "latestVersionCode": 77,
+  "latestVersion": "4.3.7",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "- ปรับปรุงดาเมจอาวุธบางส่วน",
-    "- รันเชอร์สามารถเลือกข้ามการอัปเดตได้",
-    "- ตั้งค่าล็อกเป้าในเว็บไซต์มีผลกับตัวเกม Mobile Launcher",
+    "(ตัวเกม) รองรับเซิร์ฟเวอร์ที่ใช้ Include ดัดแปลงดาเมจอาวุธ (weapon-config)",
+    "(ตัวเกม) แสดงสีตามธีมที่เซิร์ฟเวอร์ได้ตั้งค่าไว้",
+    "(รันเชอร์) แสดงผลเซิร์ฟเวอร์ที่เปิดให้ใช้ AutoAim",
     "",
     "ใครที่มีปัญหากดอัพเดตผ่านแอปไม่ได้โหลดใหม่ที่นี่: https://leakapk.com"
   ]

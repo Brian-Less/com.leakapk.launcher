@@ -4,6 +4,7 @@
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
     "08/06/22 12:40 | 4.4.8 (84-85)",
+    "(ตัวเกม) แก้ไขโค้ดการ Render Widget",
     "(ตัวเกม) เพิ่มขนาด Title สูงสุดของกล่อง Dialog",
     "(ตัวเกม/รันเชอร์) เพิ่มหน้าปรับแต่งตั้งค่าต่าง ๆ (กดปุ่มอาวุธค้างเพื่อใช้งาน)"
   ]

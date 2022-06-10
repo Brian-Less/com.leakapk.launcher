@@ -1,10 +1,12 @@
 {
-  "latestVersionCode": 88,
+  "latestVersionCode": 89,
   "latestVersion": "4.5.8",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
     "10/06/22 01:50 | 4.5.8 (88)",
     "(ตัวเกม/รันเชอร์) เพิ่มการปรับแต่งเรดาร์ (มีไฟล์ txd เพิ่ม 1 ภาพ)",
-    "(ตัวเกม) แก้ไขเกมหลุดในบางครั้งขณะเล่น"
+    "(ตัวเกม) แก้ไขเกมหลุดในบางครั้งขณะเล่น",
+    "10/06/22 01:50 | 4.5.8 (89)",
+    "(ตัวเกม) แก้ไขบางคนเข้าเกมแล้วภาพขาว"
   ]
 }

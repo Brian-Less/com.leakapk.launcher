@@ -3,8 +3,8 @@
   "latestVersion": "4.5.8",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "11/06/22 04:37 PM | 4.5.8 (91)",
-    "(ตัวเกม) Full Sync Animation",
+    "11/06/22 04:37 PM | 4.5.8 (91-92)",
+    "(ตัวเกม) รองรับการตรวจสอบการเล่น Anim จากผู้เล่นอื่น(RemotePlayer)",
     "(ตัวเกม) แก้การแช่แข็งขณะเปิด/เลือก Dialog/Textdraw (อนิเมชั่นหยุดทำงาน)"
   ]
 }

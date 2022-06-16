@@ -1,11 +1,10 @@
 {
-  "latestVersionCode": 97,
-  "latestVersion": "4.5.9",
+  "latestVersionCode": 99,
+  "latestVersion": "4.6.9",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "15/06/22 09:03 PM | 4.5.9 (96-97)",
-    "(ตัวเกม) ปรับไอคอนไมค์เข้าไปเป็น Widget ของเกมแทนการใช้ ImGUI",
-    "(รันเชอร์) เริ่มตรวจสอบ CRASH LOG จากการรายงานจากผู้ใช้",
-    "(รันเชอร์) ปรับแก้ไขตั้งค่าไอคอนการแชทด้วยเสียงใหม่"
+    "16/06/22 02:28 PM | 4.6.9 (99)",
+    "(ตัวเกม) เพิ่ม Patch แก้เกมหลุด",
+    "(ตัวเกม) แก้บั๊กปุ่มซ้อนกัน (เกิดขึ้นเมื่อมีคนขับ Helicopter)"
   ]
 }

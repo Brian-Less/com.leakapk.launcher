@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 111,
+  "latestVersionCode": 115,
   "latestVersion": "4.6.9",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
@@ -8,6 +8,6 @@
     "(ตัวเกม) แก้ปัญหาเกมแคชจาก TextdrawPreviewModel",
     "(ตัวเกม) แก้บั๊กปุ่มกระโดดเมื่อมีคนกำลังเล็งอาวุธอยู่",
     "(ตัวเกม) ฟีเจอร์แก้ไขชื่อที่ Case-sensitive (Sprite Textdraw)",
-    "(ตัวเกม) แก้ปัญหจุกจิกเล็กน้อย (v112)"
+    "(ตัวเกม) แก้ปัญหจุกจิกเล็กน้อย (v115)"
   ]
 }

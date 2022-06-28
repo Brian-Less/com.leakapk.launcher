@@ -1,13 +1,15 @@
 {
-  "latestVersionCode": 115,
-  "latestVersion": "4.6.9",
+  "latestVersionCode": 125,
+  "latestVersion": "5.8.10",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "18/06/22 08:13 AM | 4.6.9 (106-112)",
-    "(ตัวเกม) เพิ่ม Patch แก้เกมหลุด v3",
-    "(ตัวเกม) แก้ปัญหาเกมแคชจาก TextdrawPreviewModel",
-    "(ตัวเกม) แก้บั๊กปุ่มกระโดดเมื่อมีคนกำลังเล็งอาวุธอยู่",
-    "(ตัวเกม) ฟีเจอร์แก้ไขชื่อที่ Case-sensitive (Sprite Textdraw)",
-    "(ตัวเกม) แก้ปัญหจุกจิกเล็กน้อย (v115)"
+    "28/06/22 07:58 AM | 5.8.10 (125)",
+    "(รันเชอร์) เพิ่มการตั้งค่า (ตำแหน่งข้อความและหลอด HP/ARMOUR)",
+    "(ตัวเกม) เปลี่ยนปุ่ม ESC แทนที่ด้วย Widget",
+    "(ตัวเกม) เพิ่มโหมดมุมกล้องบุคคลที่หนึ่ง",
+    "(ตัวเกม) เพิ่ม Patch แก้สีพาหนะ (บางครั้งอาจเป็นสีขาวทั้งคัน)",
+    "(ตัวเกม) เพิ่ม Patch แก้หลุด",
+    "(ตัวเกม) อ่านไฟล์ vehicleAudioSettings.cfg",
+    "(ตัวเกม) ลบ Patch ที่ปิด Particle"
   ]
 }

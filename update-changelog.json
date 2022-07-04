@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 128,
+  "latestVersionCode": 129,
   "latestVersion": "5.8.11",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
@@ -7,6 +7,9 @@
     "(ตัวเกม) เพิ่ม Patch แก้หลุด",
     "(ตัวเกม) แก้ไข Patch บูส FPS",
     "(ตัวเกม) รองรับเสียงพาหนะสำหรับคนที่ใช้เดต้าเก่า (เสียงรถเป็นเหมือนปืนกล)",
-    " - การกดตรวจสอบไฟล์เกมและดาวน์โหลดจะได้ไฟล์ที่สมบูรณ์"
+    "05/07/22 04:09 AM | 5.8.11 (129)",
+    "(ตัวเกม) Fix memory leak",
+    "(ตัวเกม) Update weapon skill Sync",
+    "(ตัวเกม) Change Sync current player pointer"
   ]
 }

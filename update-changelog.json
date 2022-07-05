@@ -1,16 +1,13 @@
 {
-  "latestVersionCode": 128,
-  "latestVersion": "5.8.11",
+  "latestVersionCode": 131,
+  "latestVersion": "5.8.12",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "29/06/22 07:25 PM | 5.8.11 (126-128)",
-    "(ตัวเกม) เพิ่ม Patch แก้หลุด",
-    "(ตัวเกม) แก้ไข Patch บูส FPS",
-    "(ตัวเกม) รองรับเสียงพาหนะสำหรับคนที่ใช้เดต้าเก่า (เสียงรถเป็นเหมือนปืนกล)",
     "05/07/22 04:09 AM | 5.8.11 (129-130)",
-    "(ตัวเกม) Fix memory leak",
-    "(ตัวเกม) Update weapon skill Sync",
-    "(ตัวเกม) Change Sync current player pointer",
-    "(ตัวเกม) Hotfix buggy"
+    "(ตัวเกม) แก้ไขโค้ด (Memory Leak)",
+    "(ตัวเกม) ปรับปรุงระบบทักษะอาวุธ (Weapon Skill)",
+    "05/07/22 08:25 AM | 5.8.12 (131)",
+    "(ตัวเกม) แก้ไขบั๊กเสียงพาหนะ (ทำให้หลุดเด้งเป็นบางช่วง)",
+    "(ตัวเกม) แก้ไขการควบคุมยานพาหนะ (จักรยาน)"
   ]
 }

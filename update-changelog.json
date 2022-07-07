@@ -1,13 +1,9 @@
 {
-  "latestVersionCode": 132,
+  "latestVersionCode": 134,
   "latestVersion": "5.8.12",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "05/07/22 04:09 AM | 5.8.11 (129-130)",
-    "(ตัวเกม) แก้ไขโค้ด (Memory Leak)",
-    "(ตัวเกม) ปรับปรุงระบบทักษะอาวุธ (Weapon Skill)",
-    "05/07/22 05:48 PM | 5.8.12 (131-132)",
-    "(ตัวเกม) แก้ไขบั๊กเสียงพาหนะ (ทำให้หลุดเด้งเป็นบางช่วง)",
-    "(ตัวเกม) แก้ไขบั๊กการควบคุมจักรยานยนต์"
+    "07/07/22 08:57 AM | 5.8.12 (134)",
+    "(ตัวเกม) Custom Packet"
   ]
 }

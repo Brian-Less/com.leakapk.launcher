@@ -1,10 +1,9 @@
 {
-  "latestVersionCode": 134,
+  "latestVersionCode": 137,
   "latestVersion": "5.8.12",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "08/07/22 10:40 PM | 5.8.12 (136)",
-    "(ตัวเกม) Custom Packet",
-    "(ตัวเกม) แก้ปัญหาจาก ReceiveIgnoreRPC x2"
+    "09/07/22 12:36 AM | 5.8.12 (137)",
+    "(ตัวเกม) แก้ปัญหาจาก ReceiveIgnoreRPC"
   ]
 }

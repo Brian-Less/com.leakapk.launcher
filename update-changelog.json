@@ -3,7 +3,8 @@
   "latestVersion": "5.8.12",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "09/07/22 12:36 AM | 5.8.12 (137)",
-    "(ตัวเกม) แก้ปัญหาจาก ReceiveIgnoreRPC"
+    "09/07/22 12:36 AM | 5.8.12 (137-138)",
+    "- แก้ปัญหาจาก ReceiveIgnoreRPC (137)",
+    "- แก้บั๊กเกมหลุดเมื่อกด Y (สาเหตุจาก PlayerTD ModelPreview) (138)"
   ]
 }

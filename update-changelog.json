@@ -1,11 +1,10 @@
 {
-  "latestVersionCode": 139,
+  "latestVersionCode": 140,
   "latestVersion": "5.8.12",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "09/07/22 12:36 AM | 5.8.12 (137-139)",
-    "- แก้ปัญหาจาก ReceiveIgnoreRPC (137)",
-    "- แก้บั๊กเกมหลุดเมื่อกด Y (สาเหตุจาก PlayerTD ModelPreview) (138)",
-    "- แก้บั๊กเกมหลุดจากบาง Packet (139)"
+    "11/07/22 10:18 PM | 5.8.12 (140)",
+    "- แก้บั๊ก invalid object",
+    "- เพิ่ม CustomPacket ใหม่ (Custom Button)"
   ]
 }

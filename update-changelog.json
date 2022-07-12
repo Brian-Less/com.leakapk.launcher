@@ -1,12 +1,13 @@
 {
-  "latestVersionCode": 141,
+  "latestVersionCode": 143,
   "latestVersion": "5.8.12",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "12/07/22 12:43 PM | 5.8.12 (140-141)",
+    "12/07/22 08:54 PM | 5.8.12 (140-143)",
     "- แก้บั๊ก invalid object",
     "- เพิ่ม CustomPacket ใหม่ (Custom Button)",
     "- แก้บั๊กข้อมูล Crash Dump ที่ผิดพลาด (141)",
-    "- แก้บั๊ก invalid object เพิ่มเติม (142)"
+    "- แก้บั๊ก invalid object เพิ่มเติม (142)",
+    "- แก้บั๊ก DriveByMode สำหรับผู้เล่นที่ไม่ได้ใช้ FreeAimMode (143)"
   ]
 }

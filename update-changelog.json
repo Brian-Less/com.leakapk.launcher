@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 144,
+  "latestVersionCode": 145,
   "latestVersion": "5.9.12",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "15/07/22 08:02 AM | 5.9.12 (144)",
+    "15/07/22 08:02 AM | 5.9.12 (144-145)",
     "- ยกเลิกการใช้ Libs และเขียนใหม่เองทั้งหมด (Multi-Touch/Multi-Threading)",
     "อัปเดตนี้ส่งผลกับการเปลี่ยนแปลงอย่างมาก",
     "จากการทดสอบโดยผู้พัฒนา ปัญหาเกมเด้ง/หลุด ลดลงเป็นอย่างมาก"

@@ -1,13 +1,13 @@
 {
-  "latestVersionCode": 146,
+  "latestVersionCode": 147,
   "latestVersion": "5.9.12",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "15/07/22 08:02 AM | 5.9.12 (144-146)",
+    "16/07/22 01:29 AM | 5.9.12 (144-147)",
     "- ยกเลิกการใช้ Libs และเขียนใหม่เองทั้งหมด (Multi-Touch/Multi-Threading) (144)",
     "- แก้ปัญหาหน้าจอดำในบางครั้งเมื่อเข้าเกม (145-146)",
+    "- แก้บั๊ก syscall (147)",
     "",
-    "อัปเดตนี้ส่งผลกับการเปลี่ยนแปลงอย่างมาก",
-    "ปัญหาเกมเด้ง/หลุด อาจลดลงหรือมากขึ้น หากพบปัญหาอย่าลืมที่ต้องส่ง CRASH LOG"
+    "หากพบปัญหาอย่าลืมที่ต้องส่ง CRASH LOG"
   ]
 }

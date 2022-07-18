@@ -1,10 +1,11 @@
 {
-  "latestVersionCode": 148,
+  "latestVersionCode": 149,
   "latestVersion": "5.9.12",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
     "18/07/22 03:52 AM | 5.9.12 (148)",
     "- แก้บั๊กการระบุ cpu ที่ใช้ (148)",
+    "- Patch เพิ่ม FPS (149)",
     "",
     "หากพบปัญหาอย่าลืมที่ต้องส่ง CRASH LOG"
   ]

@@ -1,11 +1,13 @@
 {
-  "latestVersionCode": 150,
+  "latestVersionCode": 151,
   "latestVersion": "5.9.13",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "21/07/22 05:00 AM | 5.9.13 (150)",
+    "21/07/22 05:00 AM | 5.9.13 (151)",
     "- แก้บั๊กการวาด Object",
     "- รองรับการแสดงผลสีของ Object ติดตัว",
+    "- ปรับเปลี่ยนคำสั่ง /fpslimit (151)",
+    "- แก้บั๊กข้อผิดพลาดจาก vc150 (151)",
     "",
     "หากพบปัญหาอย่าลืมที่ต้องส่ง CRASH LOG"
   ]

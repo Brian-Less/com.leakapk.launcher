@@ -1,13 +1,9 @@
 {
-  "latestVersionCode": 155,
+  "latestVersionCode": 156,
   "latestVersion": "5.9.13",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "25/07/22 02:11 PM | 5.9.13 (152-155)",
-    "- แก้ไข offset entity flag ที่ผิดพลาด",
-    "- ปรับ flag ของแต่งยานพาหนะให้ถูกต้อง",
-    "- แก้บั๊กที่เกิดจากอัปเดต 152 (Textdraw Object Model) (153)",
-    "- แก้ Object DrawLast offset flag (154-155)",
+    "05/08/22 09:15 PM | 5.9.13 (156)",
     "",
     "หากพบปัญหาอย่าลืมที่ต้องส่ง CRASH LOG"
   ]

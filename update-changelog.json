@@ -1,9 +1,10 @@
 {
-  "latestVersionCode": 159,
+  "latestVersionCode": 160,
   "latestVersion": "5.9.13",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "08/08/22 10:18 PM | 5.9.13 (159)",
+    "09/08/22 05:28 PM | 5.9.13 (160)",
+    "แก้บั๊ก FPS",
     "",
     "หากพบปัญหาอย่าลืมที่ต้องส่ง CRASH LOG"
   ]

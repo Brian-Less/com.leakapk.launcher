@@ -1,12 +1,12 @@
 {
-  "latestVersionCode": 165,
+  "latestVersionCode": 166,
   "latestVersion": "5.9.14",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "10/08/22 06:19 PM | 5.9.14 (165)",
+    "10/08/22 06:19 PM | 5.9.14 (166)",
     "แก้บั๊ก FPS (160-161)",
     "ปรับปรุงการแสดงผล Object (162)",
-    "แก้บั๊กตั้งค่าเสียงไม่ซิงค์ (163-165)",
+    "แก้บั๊กตั้งค่าเสียงไม่ซิงค์ (163-166)",
     "",
     "หากพบปัญหาอย่าลืมที่ต้องส่ง CRASH LOG"
   ]

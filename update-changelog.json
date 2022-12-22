@@ -1,9 +1,11 @@
 {
-  "latestVersionCode": 222,
+  "latestVersionCode": 223,
   "latestVersion": "5.12.22",
   "url": "https://github.com/Brian-Less/leakapk.launcher/releases/latest/download/leakAPP.apk",
   "releaseNotes": [
-    "20/12/22 02:22 PM | 5.12.22 (222)",
+    "20/12/22 02:22 PM | 5.12.22 (223)",
+    "ฟีเจอร์ใหม่ปรับแต่งแฟชั่น/สิ่งของ",
+    "- EditObject / EditAttachedObject",
     ""
   ]
 }
